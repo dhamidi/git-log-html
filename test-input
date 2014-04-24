@@ -1,0 +1,38 @@
+*   [1;34mdc67824[m - [1;32m(30 hours ago)[m [37mMerge pull request #1027 from tpett/new-vagrant[m [2;37m- Lee Hambley[m[1;33m (HEAD, origin/master, origin/HEAD, master)[m
+|\  
+| * [1;34m2e13a13[m - [1;32m(2 days ago)[m [37mCucumber tests will now run on the latest Vagrant[m [2;37m- Travis Petticrew[m[1;33m[m
+|/  
+*   [1;34m1be0fa5[m - [1;32m(34 hours ago)[m [37mMerge pull request #1023 from mbrictson/improve-help[m [2;37m- Lee Hambley[m[1;33m[m
+|\  
+| * [1;34m0b8717d[m - [1;32m(3 days ago)[m [37mImprove the output of cap --help.[m [2;37m- Matt Brictson[m[1;33m[m
+* | [1;34mb86c925[m - [1;32m(34 hours ago)[m [37mImprove compatibility by making options optional for the question initializer[m [2;37m- Lee Hambley[m[1;33m[m
+* |   [1;34mf3c4eab[m - [1;32m(34 hours ago)[m [37mMerge pull request #1020 from robbertkl/freebsd-tar-fix[m [2;37m- Lee Hambley[m[1;33m[m
+|\ \  
+| |/  
+|/|   
+| * [1;34ma0db741[m - [1;32m(4 days ago)[m [37mFix compatibility with FreeBSD tar[m [2;37m- Robbert Klarenbeek[m[1;33m[m
+|/  
+*   [1;34m8c55997[m - [1;32m(2 days ago)[m [37mMerge pull request #1028 from mbrictson/highline-ask[m [2;37m- Lee Hambley[m[1;33m[m
+|\  
+| * [1;34m4aebffe[m - [1;32m(3 days ago)[m [37mRefactor ask() to use Highline; support echo:false.[m [2;37m- Matt Brictson[m[1;33m[m
+* |   [1;34mbe607bd[m - [1;32m(2 days ago)[m [37mMerge pull request #1024 from miry/before[m [2;37m- Lee Hambley[m[1;33m[m
+|\ \  
+| * | [1;34m9da7eb5[m - [1;32m(9 days ago)[m [37m:panda_face: Added tests for after/before hooks[m [2;37m- Juan Ibiapina[m[1;33m[m
+|/ /  
+* | [1;34m486e375[m - [1;32m(3 days ago)[m [37mUpdate CHANGELOG.md[m [2;37m- Lee Hambley[m[1;33m[m
+* | [1;34m162cc1d[m - [1;32m(3 days ago)[m [37mPreparing Release v3.2.1[m [2;37m- Lee Hambley[m[1;33m (tag: v3.2.1)[m
+* | [1;34mb586c2d[m - [1;32m(3 days ago)[m [37mRevert "Merge pull request #928 from miry/before_with_args"[m [2;37m- Lee Hambley[m[1;33m[m
+* |   [1;34m25a0262[m - [1;32m(3 days ago)[m [37mMerge pull request #1019 from bruno-/tweak_revision_log[m [2;37m- Lee Hambley[m[1;33m[m
+|\ \  
+| |/  
+|/|   
+| * [1;34m6e670fc[m - [1;32m(4 days ago)[m [37mUpdate dsl#local_user method[m [2;37m- Bruno Sutic[m[1;33m[m
+|/  
+*   [1;34m53957e7[m - [1;32m(7 days ago)[m [37mMerge pull request #1016 from blaugueux/patch-1[m [2;37m- Lee Hambley[m[1;33m[m
+|\  
+| * [1;34mcc091ad[m - [1;32m(7 days ago)[m [37mRevert short sha1 revision.[m [2;37m- Benjamin Laugueux[m[1;33m[m
+|/  
+*   [1;34mb0c8878[m - [1;32m(9 days ago)[m [37mMerge pull request #1007 from sponomarev/changed-i18n[m [2;37m- Lee Hambley[m[1;33m[m
+|\  
+| * [1;34m14d5802[m - [1;32m(9 days ago)[m [37mChanged i18n[m [2;37m- Sergey Ponomarev[m[1;33m[m
+|/  

@@ -1,0 +1,15 @@
+.foreground-1 { color: darkred;   }
+.foreground-2 { color: darkgreen; }
+.foreground-3 { color: darkgoldenrod; }
+.foreground-4 { color: darkblue; }
+.foreground-5 { color: darkmagenta; }
+.foreground-6 { color: darkcyan; }
+.foreground-7 { color: gray; }
+
+.bold.foreground-1 { color: red;   }
+.bold.foreground-2 { color: green; }
+.bold.foreground-3 { color: goldenrod; }
+.bold.foreground-4 { color: blue; }
+.bold.foreground-5 { color: magenta; }
+.bold.foreground-6 { color: cyan; }
+.bold.foreground-7 { color: gray; }
